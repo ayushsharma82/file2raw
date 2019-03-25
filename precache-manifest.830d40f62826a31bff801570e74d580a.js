@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "103993d020ad432342813fc26ef69bf4",
-    "url": "/file2raw/icons/apple-icon-152x152.png"
+    "revision": "a2f7edeb0fb9695eeb207d806af2779a",
+    "url": "/file2raw/icons/apple-icon-57x57.png"
   },
   {
     "revision": "3b4be1909c961073549680175c0e67be",
@@ -20,24 +20,24 @@ self.__precacheManifest = [
     "url": "/file2raw/img/logo.svg"
   },
   {
-    "revision": "ef52d302c031f2c0aa4b79978d7c0632",
+    "revision": "fecf8600a6d06e9b0c2461d6d990bab8",
     "url": "/file2raw/index.html"
-  },
-  {
-    "revision": "02166f76acf8f173e2a8d7036765ea04",
-    "url": "/file2raw/icons/android-icon-36x36.png"
-  },
-  {
-    "revision": "305c2efee3a74ff583e240745c6a4fc9",
-    "url": "/file2raw/icons/android-icon-144x144.png"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/file2raw/robots.txt"
   },
   {
+    "revision": "305c2efee3a74ff583e240745c6a4fc9",
+    "url": "/file2raw/icons/android-icon-144x144.png"
+  },
+  {
     "revision": "e173e709be37950e78668ffedc15e5ec",
     "url": "/file2raw/icons/android-icon-192x192.png"
+  },
+  {
+    "revision": "02166f76acf8f173e2a8d7036765ea04",
+    "url": "/file2raw/icons/android-icon-36x36.png"
   },
   {
     "revision": "673ff76c74af2d106ea7f298dc30a097",
@@ -64,32 +64,40 @@ self.__precacheManifest = [
     "url": "/file2raw/icons/apple-icon-144x144.png"
   },
   {
-    "revision": "9aed9facf8f454c67c1e3a00c8df4c00",
-    "url": "/file2raw/icons/apple-icon-180x180.png"
+    "revision": "103993d020ad432342813fc26ef69bf4",
+    "url": "/file2raw/icons/apple-icon-152x152.png"
   },
   {
-    "revision": "c550deb45ecf95ec104c",
+    "revision": "28a85b87ce1ec6dfb561",
     "url": "/file2raw/js/app.js"
-  },
-  {
-    "revision": "a2f7edeb0fb9695eeb207d806af2779a",
-    "url": "/file2raw/icons/apple-icon-57x57.png"
-  },
-  {
-    "revision": "8bd4fba21fefa46211e7cc75c843482c",
-    "url": "/file2raw/icons/apple-icon-76x76.png"
-  },
-  {
-    "revision": "673ff76c74af2d106ea7f298dc30a097",
-    "url": "/file2raw/icons/apple-icon-72x72.png"
   },
   {
     "revision": "0f89a2c14ce36a5fb9743f466399dfef",
     "url": "/file2raw/icons/apple-icon-60x60.png"
   },
   {
+    "revision": "9aed9facf8f454c67c1e3a00c8df4c00",
+    "url": "/file2raw/icons/apple-icon-180x180.png"
+  },
+  {
+    "revision": "673ff76c74af2d106ea7f298dc30a097",
+    "url": "/file2raw/icons/apple-icon-72x72.png"
+  },
+  {
+    "revision": "8bd4fba21fefa46211e7cc75c843482c",
+    "url": "/file2raw/icons/apple-icon-76x76.png"
+  },
+  {
     "revision": "7a95f2931b9ff4e859ae0daba79d7430",
     "url": "/file2raw/icons/apple-icon-precomposed.png"
+  },
+  {
+    "revision": "7a95f2931b9ff4e859ae0daba79d7430",
+    "url": "/file2raw/icons/apple-icon.png"
+  },
+  {
+    "revision": "9f4dd854659b8223c83a3c49676ba663",
+    "url": "/file2raw/icons/favicon-16x16.png"
   },
   {
     "revision": "53650233b4838874f6b310f2ef07279f",
@@ -98,14 +106,6 @@ self.__precacheManifest = [
   {
     "revision": "653d077300a12f09a69caeea7a8947f8",
     "url": "/file2raw/icons/browserconfig.xml"
-  },
-  {
-    "revision": "9f4dd854659b8223c83a3c49676ba663",
-    "url": "/file2raw/icons/favicon-16x16.png"
-  },
-  {
-    "revision": "7a95f2931b9ff4e859ae0daba79d7430",
-    "url": "/file2raw/icons/apple-icon.png"
   },
   {
     "revision": "2dfe3a7bdfece5295cc3292e5b0a82e8",
@@ -136,7 +136,7 @@ self.__precacheManifest = [
     "url": "/file2raw/css/chunk-vendors.css"
   },
   {
-    "revision": "c550deb45ecf95ec104c",
+    "revision": "28a85b87ce1ec6dfb561",
     "url": "/file2raw/css/app.css"
   }
 ];
